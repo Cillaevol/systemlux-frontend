@@ -1,0 +1,32 @@
+.border-bottom{
+    border-bottom: solid 2px #F27405 !important;
+}
+
+.footer {
+    background: #fff;
+    padding: 60px 0;
+    position: relative;
+    color: #2f55d4;
+}
+
+.footer.footer-bar {
+    padding: 30px 0;
+    border-top: solid 2px #F27405 !important;
+}
+
+#buttonStyle{
+    background-color: #F20505;
+    color: #fff;
+    border-radius: 2px;
+    transition: all 0.6s ease 0s;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    font-size: 15px;
+
+}
+
+#buttonStyle:hover{
+    background-color: #175073;
+    color: #fff;
+    transform: translateY(-10px);
+    box-shadow: 0px 3px 3px #175073;
+}

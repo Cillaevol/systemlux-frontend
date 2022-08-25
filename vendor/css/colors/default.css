@@ -40,7 +40,7 @@
 .timeline-page .timeline-item .duration-right:after,
 .swiper-slider-hero .swiper-container .swiper-button-prev:hover,
 .swiper-slider-hero .swiper-container .swiper-button-next:hover {
-    background-color: #F27405 !important;
+    background-color: #175073 !important;
 }
 
 .text-primary,
@@ -95,7 +95,7 @@
 .dropdown-primary .dropdown-menu .dropdown-item:active, 
 .dropdown-primary .dropdown-menu .dropdown-item.focus, 
 .dropdown-primary .dropdown-menu .dropdown-item:focus {
-    color: #F27405 !important;
+    color: #175073 !important;
 }
 
 .btn-primary,
@@ -137,7 +137,7 @@
 .flatpickr-day.selected:hover,
 .swiper-slider-hero .swiper-container .swiper-button-prev:hover,
 .swiper-slider-hero .swiper-container .swiper-button-next:hover {
-    border-color: #F27405 !important;
+    border-color: #175073 !important;
 }
 
 .btn-primary,
@@ -148,7 +148,7 @@
 .btn-outline-primary.active, 
 .btn-outline-primary.focus, 
 .btn-outline-primary:not(:disabled):not(.disabled):active {
-    box-shadow: 0 3px 5px 0 #F27405;
+    box-shadow: 0 3px 5px 0 #175073;
 }
 
 .btn-primary:hover, 
@@ -156,8 +156,8 @@
 .btn-primary:active, 
 .btn-primary.active, 
 .btn-primary.focus {
-    background-color: #F27405 !important;
-    border-color: #F27405 !important;
+    background-color: #175073 !important;
+    border-color: #175073 !important;
 }
 
 .btn-soft-primary {
